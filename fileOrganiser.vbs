@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\fujitsu\PycharmProjects\Battery_notify_with_Audio\fileOrganiser.bat", 0 , True
